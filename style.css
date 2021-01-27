@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(57, 22, 184);
+background-color: crimson;
+}
+.Header{
+    background-color: rgb(25, 160, 54);
+    display:flex;
+    justify-content:space-between;
+
+}
+.Grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: rosybrown;
+}
+.Footer{
+    display: flex;
+    justify-content: flex-end;
+
+
+}
+   
+body{
+    background-color :#11a035;
+}
